@@ -1,0 +1,16 @@
+{
+  "attributes": [
+    {
+      "trait_type": "location",
+      "value": "San Leandro, CA"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "created",
+      "value": 1546360800
+    }
+  ],
+  "description": "Rockies 3D Traffic",
+  "image": "ipfs://QmUEos2LtugQWYnFScGjkqEbCmQjH44XNQviJN2Umgveuk?filename=test5POC.jpg",
+  "name": "Airspace NFT 1"
+}

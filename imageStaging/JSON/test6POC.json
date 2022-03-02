@@ -1,0 +1,16 @@
+{
+  "attributes": [
+    {
+      "trait_type": "location",
+      "value": "West New York"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "created",
+      "value": 1535250800
+    }
+  ],
+  "description": "Rangers 3D Traffic",
+  "image": "ipfs://QmZXPyMoGtzJK5qoCfNyyGFm9MdyV2Lmy5pWCwvP9z3BYd?filename=test6POC.png",
+  "name": "Airspace NFT 2"
+}
